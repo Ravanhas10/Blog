@@ -155,6 +155,7 @@
             box-shadow: 0 0 30px rgba(0, 212, 255, 0.8);
             animation: girar 8s linear infinite;
         }
+
         .etiqueta {
             color: #ffd700;
             font-weight: bold;
